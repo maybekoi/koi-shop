@@ -2,11 +2,11 @@
     "success": "Welcome to the Koi Shop!\nThis is a simple tinfoil shop for switch ports that I make!",
     "files": [
         {
-            "url": "https://github.com/maybekoi/koi-shop/releases/download/ports/AngryNeighborNX.nsp#!! AngryNeighbor.nsp",
+            "url": "https://github.com/maybekoi/koi-shop/releases/download/ports/AngryNeighborNX.nsp#AngryNeighbor.nsp",
             "size": 171966464
         },
         {
-            "url": "https://github.com/maybekoi/koi-shop/releases/download/ports/BBHASRV1-NX-TestBuild.nsp#! Baldi's Basics Hide and Seek Remastered V1.nsp",
+            "url": "https://github.com/maybekoi/koi-shop/releases/download/ports/BBHASRV1-NX-TestBuild.nsp#Baldi's Basics Hide and Seek Remastered V1.nsp",
             "size": 241631680
         }
     ]
