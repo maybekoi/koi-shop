@@ -2,6 +2,8 @@
 
 * A simple tinfoil shop for my switch ports :D
 
+* the games download but they show up as like corrupted(??) on the home menu send help (installing the nsps normally does work)
+
 # how 2 add
 
 ```
