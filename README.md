@@ -7,7 +7,7 @@
 ```
 Protocol: https
 Host: raw.githubusercontent.com
-Path: maybekoi/koi-shop/main/tinfoil/tinfoil.json
+Path: maybekoi/koi-shop/main/tinfoil.json
 Title: koi shop
 ```
 
